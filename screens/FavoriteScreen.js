@@ -1,7 +1,7 @@
 import { Text } from "react-native";
 
 const FavoriteScreen = () => {
-  return <Text>The favorites</Text>;
+  return <Text>Favorites</Text>;
 };
 
 export default FavoriteScreen;
